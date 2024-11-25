@@ -6,4 +6,4 @@ As the saying goes, read thousands of miles of books, travel thousands of miles.
 这个空间是我在江苏科技大学学习时编写的代码的集合，用来锻炼我的编程能力。它包括但不限于测试程序、代码模块和语法分析等内容。
 正如一句话所说，“读万卷书不如行万里路。”我愿意乘风破浪，未来定能披云破雾，乘风远航。这是我每天来练习编写代码的地方，也是我不断进步的空间。
 
-JUST do it！
+JUST do it！I really hope that after many days, this place will be so rich that every time I look at it in the future, I will be reminded of my student days.
